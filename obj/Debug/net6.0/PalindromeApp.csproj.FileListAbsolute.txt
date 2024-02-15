@@ -1,0 +1,15 @@
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\bin\Debug\net6.0\PalindromeApp.exe
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\bin\Debug\net6.0\PalindromeApp.deps.json
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\bin\Debug\net6.0\PalindromeApp.runtimeconfig.json
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\bin\Debug\net6.0\PalindromeApp.dll
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\bin\Debug\net6.0\PalindromeApp.pdb
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\obj\Debug\net6.0\PalindromeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\obj\Debug\net6.0\PalindromeApp.AssemblyInfoInputs.cache
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\obj\Debug\net6.0\PalindromeApp.AssemblyInfo.cs
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\obj\Debug\net6.0\PalindromeApp.csproj.CoreCompileInputs.cache
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\obj\Debug\net6.0\PalindromeApp.sourcelink.json
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\obj\Debug\net6.0\PalindromeApp.dll
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\obj\Debug\net6.0\refint\PalindromeApp.dll
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\obj\Debug\net6.0\PalindromeApp.pdb
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\obj\Debug\net6.0\PalindromeApp.genruntimeconfig.cache
+D:\dotNet\Testing\PalindromeApp\PalindromeApp\obj\Debug\net6.0\ref\PalindromeApp.dll
